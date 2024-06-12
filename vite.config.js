@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 export default defineConfig({
-  base: "carlanegame/demo/",
+  base: "CarLane_game/demo/",
   build: {
     outDir: "dist",
   },
