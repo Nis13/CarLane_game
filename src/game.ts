@@ -28,7 +28,7 @@ export class Game {
     const carWidth = this.canvas.width / 6;
     const carHeight = this.canvas.height / 4;
 
-    const playerCarImageSrc = "./src/Images/player-car.png";
+    const playerCarImageSrc = "./public/player-car.png";
 
     this.gameoverFlag = false;
     this.animationId = 0;
@@ -127,7 +127,7 @@ export class Game {
   spawnOpponentCar() {
     const carWidth = this.canvas.width / 6;
     const carHeight = this.canvas.height / 4;
-    const opponentCarImageSrc = "./src/Images/opponent-car.png";
+    const opponentCarImageSrc = "./public/opponent-car.png";
 
     const minDistanceBetweenCars = carHeight + this.playerCar.height;
 
