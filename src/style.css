@@ -21,7 +21,7 @@
   align-items: flex-start;
   justify-content: center;
   height: 100vh;
-  background: url(../public/bg-one.jpg);
+  background: url(/bg-one.jpg);
   background-position: center;
   background-size: cover;
   padding-left: 3%;
