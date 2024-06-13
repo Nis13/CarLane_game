@@ -1,8 +1,38 @@
-<h1>Car Lane Game</h1>
 
--made using Typescript<br>
+## Car Lane Game
 
-to play locally use command: npm build dev <br>
-or <br>
-click link below:<br>
+Implemented using HTML, CSS, and Typescript
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Nis13/CarLane_game.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Run the project
+```bash
+  npm run dev
+```
+
+
+## Demo
+
 https://nis13.github.io/CarLane_game/
+
